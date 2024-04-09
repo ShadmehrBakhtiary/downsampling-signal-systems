@@ -16,4 +16,3 @@ Future work may involve extending the down-sampling technique to handle color im
 
 ---
 
-Feel free to modify and expand this description as needed for your project!
