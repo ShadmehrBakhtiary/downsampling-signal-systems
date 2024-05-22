@@ -8,6 +8,8 @@ The project will delve into the application of FFT to convert images from the sp
 ## Implementation
 The down-sampling technique will be implemented using Python's NumPy and SciPy libraries for FFT processing and image manipulation. Additionally, MATLAB's inbuilt functions for FFT and image processing will be utilized to demonstrate the down-sampling process in an alternative environment. The project will provide detailed, step-by-step implementations in both Python and MATLAB, facilitating a comprehensive understanding of the FFT-based down-sampling method.
 
+![this was my first input image to the program](https://github.com/ShadmehrBakhtiary/downsampling-signal-systems/blob/main/sprite.png?raw=true)
+
 ## Benefits
 The FFT-based down-sampling method offers advantages such as reduced computational complexity and improved preservation of image features compared to traditional spatial domain down-sampling techniques. By showcasing the effectiveness of this approach, the project aims to provide a valuable resource for image processing enthusiasts and practitioners seeking efficient down-sampling solutions.
 
